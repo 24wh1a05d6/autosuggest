@@ -1,3 +1,27 @@
-h1{
-    color: red;
+h1 {
+     text-align: center;
+    color: rgb(183, 0, 255);
+}
+#home-intro{
+text-align: center;
+border: 3px solid black;
+}
+#p2{
+     text-align: center;
+    color: blue;
+}
+#home-intro:hover{
+    background-color: grey;
+}
+#nav{
+    text-align: center;
+    backgroundcolor:red;
+    height:25px;
+    padding:5px;
+}
+#nav a{
+    margin:0px 5px;
+    /*margin:y-axis x-axis*/
+    text-decoration: none;
+    color:white;
 }
